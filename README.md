@@ -11,6 +11,5 @@ Aprendi a trabalhar com fórmulas, funções e macros, a criar gráficos e tabel
 <!-- Inserir imagem com a #vitrinedev ao final do link -->
 ![](https://github.com/onedreamcwb/Meu-Portfolio/blob/main/Front%20End.png?raw=true#vitrinedev)
 
-## Detalhes do projeto
+## Imagens
 
-Textos e imagens que descrevam seu projeto, suas conquistas, seus desafios, próximos passos, etc...
