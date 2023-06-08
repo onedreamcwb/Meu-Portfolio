@@ -10,6 +10,7 @@ Aprendi a trabalhar com fórmulas, funções e macros, a criar gráficos e tabel
 
 <!-- Inserir imagem com a #vitrinedev ao final do link -->
 ![](https://github.com/onedreamcwb/Meu-Portfolio/blob/main/Front%20End.png?raw=true#vitrinedev)
+#vitrinedev
 ## 🏆 Desafios
 Eu já tinha uma base de Excell no decorrer de minha carreira, porém esta complexidade que foi apresentada nos cursos da Formaçõa foi muito interessante. Aprendi muito neste curso e pude também trabalhar minha criatividade nas visualizações das tabelas dinâmicas.
 ## 🤷🏼 O que Aprendi
