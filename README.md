@@ -9,7 +9,7 @@ Aprendi a trabalhar com fórmulas, funções e macros, a criar gráficos e tabel
 | :fire: Formação     | [Link da Formação](https://cursos.alura.com.br/formacao-excel)
 
 <!-- Inserir imagem com a #vitrinedev ao final do link -->
-![](https://via.placeholder.com/1200x500.png?text=imagem+lindona+do+meu+projeto#vitrinedev)
+![](https://github.com/onedreamcwb/Meu-Portfolio/blob/main/Front%20End.png?raw=true#vitrinedev)
 
 ## Detalhes do projeto
 
